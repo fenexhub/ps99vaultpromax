@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <radialGradient id="goldGrad" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FEF08A" />
+      <stop offset="55%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#B45309" />
+    </radialGradient>
+  </defs>
+  <circle cx="60" cy="60" r="54" fill="url(#goldGrad)" stroke="#FDE047" stroke-width="5" />
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FEF9C3" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" />
+  <path d="M32 76L38 44L52 58L60 38L68 58L82 44L88 76H32Z" fill="#FFFBEB" stroke="#92400E" stroke-width="3" stroke-linejoin="round" />
+  <circle cx="38" cy="39" r="4" fill="#FEF08A" />
+  <circle cx="60" cy="33" r="5" fill="#FEF08A" />
+  <circle cx="82" cy="39" r="4" fill="#FEF08A" />
+  <text x="60" y="95" text-anchor="middle" fill="#78350F" font-family="sans-serif" font-weight="900" font-size="12">HEADS</text>
+</svg>
